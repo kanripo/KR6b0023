@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 太子須大拏經
+#+DATE: 2015-08-30 19:34:03.609224
+#+PROPERTY: JUAN 0
