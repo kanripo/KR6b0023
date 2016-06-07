@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:34:03.431381
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:53
 #+TITLE: 太子須大拏經
 #+PROPERTY: CBETA_ID T03n0171
 #+PROPERTY: ID KR6b0023
